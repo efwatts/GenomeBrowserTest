@@ -1,0 +1,64 @@
+track control_Testfile_small_0mm
+bigDataUrl control_Testfile_small_0mm.bb
+shortLabel control_Testfile_
+longLabel control_Testfile_small_0mm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track control_Testfile_small_1mm
+bigDataUrl control_Testfile_small_1mm.bb
+shortLabel control_Testfile_
+longLabel control_Testfile_small_1mm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track control_Testfile_small_2mm
+bigDataUrl control_Testfile_small_2mm.bb
+shortLabel control_Testfile_
+longLabel control_Testfile_small_2mm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track control_Testfile_small_2mm_1in5
+bigDataUrl control_Testfile_small_2mm_1in5.bb
+shortLabel control_Testfile_
+longLabel control_Testfile_small_2mm_1in5
+type bigBed 12
+visibility dense
+itemRgb on
+
+track control_Testfile_small_ptm_0mm
+bigDataUrl control_Testfile_small_ptm_0mm.bb
+shortLabel control_Testfile_
+longLabel control_Testfile_small_ptm_0mm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track control_Testfile_small_ptm_1mm
+bigDataUrl control_Testfile_small_ptm_1mm.bb
+shortLabel control_Testfile_
+longLabel control_Testfile_small_ptm_1mm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track control_Testfile_small_ptm_2mm
+bigDataUrl control_Testfile_small_ptm_2mm.bb
+shortLabel control_Testfile_
+longLabel control_Testfile_small_ptm_2mm
+type bigBed 12
+visibility dense
+itemRgb on
+
+track control_Testfile_small_ptm_2mm_1in5
+bigDataUrl control_Testfile_small_ptm_2mm_1in5.bb
+shortLabel control_Testfile_
+longLabel control_Testfile_small_ptm_2mm_1in5
+type bigBed 12
+visibility dense
+itemRgb on
+

@@ -1,0 +1,5 @@
+hub genometest
+shortLabel genometest
+longLabel genometest
+genomesFile genomes.txt
+email watts.emily.f@virginia.edu
