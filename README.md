@@ -1,0 +1,1 @@
+### This repository simply contains sample files that work when being uploaded to the (UCSC Genome Browser)[https://genome.ucsc.edu/]. They can be used to model your own input files or to get an example of formatting.
